@@ -107,6 +107,10 @@ terraform version
 
 - **Important Note:** Please access this repository and FORK it and use them during the course.
 
+<p align='center'>
+  Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
+</p>
+
 ## :memo: License
 
 This project is under [MIT License](./LICENSE).
